@@ -12,6 +12,6 @@ If you want to migrate to MoneyThings, please check the instructions first, if t
 
 **codelishaohui@gmail.com**
 
-# Supported
+# Supported / 已支持应用
 
 - To do
