@@ -1,4 +1,4 @@
-# MoneyThings Immigration Program / MoneyThings 移民计划
+# MoneyThings Immigration Program / 移民计划
 
 为了方便用户从其他同类型App迁移到 MoneyThings，将会提供1个 macOS、Windows 应用程序。用户可以在其个人电脑上将 其他同类型 App 导出的数据转换为 MoneyThings 格式，从而一次性导入至 MoneyThings。
 
